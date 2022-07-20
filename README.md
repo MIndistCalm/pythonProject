@@ -1,3 +1,2 @@
 # ORM-peewee-test
-# ORM-peewee-test
-# ORM-peewee-test
+Тестирование ORM для Python
